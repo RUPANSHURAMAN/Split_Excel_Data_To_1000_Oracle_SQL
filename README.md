@@ -47,7 +47,7 @@ and it will Remove empty lines, Trim spaces from both sides of input data cell a
     Done!
     ![image](https://user-images.githubusercontent.com/26063397/110435335-e6e52400-80d8-11eb-81c2-876275590762.png)
 
-    **Note: Python 3 should be installed in your system with shutil and jproperties**
+    **Note: Python 3 should be installed in your system with jproperties**
     
     a. pip install jproperties ([jproperties install guide](https://pypi.org/project/jproperties/))
 

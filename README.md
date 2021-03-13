@@ -48,10 +48,8 @@ and it will Remove empty lines, Trim spaces from both sides of input data cell a
     ![image](https://user-images.githubusercontent.com/26063397/110435335-e6e52400-80d8-11eb-81c2-876275590762.png)
 
     **Note: Python 3 should be installed in your system with shutil and jproperties**
-
-    a. pip install pytest-shutil # or.. easy_install pytest-shutil ([shutil install guide](https://pypi.org/project/pytest-shutil/))
     
-    b. pip install jproperties ([jproperties install guide](https://pypi.org/project/jproperties/))
+    a. pip install jproperties ([jproperties install guide](https://pypi.org/project/jproperties/))
 
 3. Output will be saved in **output folder** folder.
     ![image](https://user-images.githubusercontent.com/26063397/110436526-59a2cf00-80da-11eb-9bbe-73a2b0b91ea2.png)
